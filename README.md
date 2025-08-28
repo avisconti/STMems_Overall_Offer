@@ -29,8 +29,6 @@ This publication channel will provide broader added value:
 <tbody>
 <tr>
 <th style="width: 450px;">Column 1</th>
-</tr>
-<tr>
 <td> <a href="https://github.com/STMicroelectronics/STMems_Standard_C_drivers">STMems_Standard_C_drivers</a></td>
 <td>Standard C platform-independent drivers for MEMS sensors </td>
 </tr>
