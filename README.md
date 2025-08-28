@@ -19,6 +19,36 @@ This publication channel will provide broader added value:
 - As a delivery option ([Git](https://git-scm.com/)) for customers to download and manage drivers and configuration examples for **STMicroelectronics MEMS sensors**.
 - Direct communication between developers, thanks to the Issues feedback option. **Caution** : *only software-related questions will be taken into account. Any other subject must be submitted to the [ST Community](https://community.st.com/) forum.*
 
+<table border="1" width="100%">
+	<col style="width:40%">
+	<col style="width:30%">
+	<col style="width:30%">
+	<thead>
+	<tr>
+		<th>Fruits</th>
+		<th>Vitamin A</th>
+		<th>Vitamin C</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<th>Apples</th>
+		<td>98 ui</td>
+		<td>8.4 mg</td>
+	</tr>
+	<tr>
+		<th>Oranges</th>
+		<td>295 ui</td>
+		<td>69.7 mg</td>
+	</tr>
+	<tr>
+		<th>Bananas</th>
+		<td>76 ui</td>
+		<td>10.3 mg</td>
+	</tr>
+	</tbody>
+</table>
+
 <table style="width:100%">
 <col style="width:40%">
 <col style="width:60%">
