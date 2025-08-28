@@ -37,7 +37,7 @@ This publication channel will provide broader added value:
 		<td>8.4 mg</td>
 	</tr>
 	<tr>
-		<th>Oranges</th>
+		<th> <a href="https://github.com/STMicroelectronics/st-mems-android-linux-sensors-hal">st-mems-android-linux-sensors-hal</a></th>
 		<td>295 ui</td>
 		<td>69.7 mg</td>
 	</tr>
