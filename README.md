@@ -19,16 +19,15 @@ This publication channel will provide broader added value:
 - As a delivery option ([Git](https://git-scm.com/)) for customers to download and manage drivers and configuration examples for **STMicroelectronics MEMS sensors**.
 - Direct communication between developers, thanks to the Issues feedback option. **Caution** : *only software-related questions will be taken into account. Any other subject must be submitted to the [ST Community](https://community.st.com/) forum.*
 
-<table>
+<table style="width:100%">
 <thead>
 <tr>
-<th>Repository</th>
+<th> style="width:30%">Repository</th>
 <th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<th style="width: 450px;">Column 1</th>
 <td> <a href="https://github.com/STMicroelectronics/STMems_Standard_C_drivers">STMems_Standard_C_drivers</a></td>
 <td>Standard C platform-independent drivers for MEMS sensors </td>
 </tr>
