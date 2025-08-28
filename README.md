@@ -32,7 +32,7 @@ This publication channel will provide broader added value:
 	</thead>
 	<tbody>
 	<tr>
-		<th>Apples and fucking other stuff</th>
+		<th>Apples and fucking other stuff which I don't know</th>
 		<td>98 ui</td>
 		<td>8.4 mg</td>
 	</tr>
