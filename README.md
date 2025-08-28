@@ -93,6 +93,9 @@ This publication channel will provide broader added value:
 </tbody>
 </table>
 
+.no-wrap-col-1 td:nth-of-type(1) {
+  white-space: nowrap;
+}
 ### STMicroelectronics MEMS sensors offer on GitHub:
 
 | Repository                                                   | Description                                                  |
