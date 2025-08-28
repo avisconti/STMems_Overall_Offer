@@ -24,14 +24,14 @@ This publication channel will provide broader added value:
 	<col style="width:60%">
 	<thead>
 	<tr>
-		<th>Fruits</th>
-		<th>Vitamin A</th>
+		<th>Repository</th>
+		<th>Description</th>
 	</tr>
 	</thead>
 	<tbody>
 	<tr>
 		<th> <a href="https://github.com/STMicroelectronics/STMems_Standard_C_drivers">STMems_Standard_C_drivers</a></th>
-		<td>98 ui</td>
+		<td>Standard C platform-independent drivers for MEMS sensors </td>
 	</tr>
 	<tr>
 		<th> <a href="https://github.com/STMicroelectronics/st-mems-android-linux-sensors-hal">st-mems-android-linux-sensors-hal</a></th>
