@@ -20,8 +20,8 @@ This publication channel will provide broader added value:
 - Direct communication between developers, thanks to the Issues feedback option. **Caution** : *only software-related questions will be taken into account. Any other subject must be submitted to the [ST Community](https://community.st.com/) forum.*
 
 <table border="1" width="100%">
-	<col style="width:40%">
 	<col style="width:60%">
+	<col style="width:40%">
 	<thead>
 	<tr>
 		<th>Repository</th>
@@ -39,7 +39,7 @@ This publication channel will provide broader added value:
 	</tr>
 	<tr>
 		<td> <a href="https://github.com/STMicroelectronics/st-mems-android-linux-sensors-hal">st-mems-android-linux-sensors-hal</a></td>
-		<td> Android / Linux sensironmental sensors (Industrial I/O framework) </td>
+		<td> Android / Linux sensor HAL for MEMS motion and environmental sensors (Industrial I/O framework) </td>
 	</tr>
 	</tbody>
 </table>
