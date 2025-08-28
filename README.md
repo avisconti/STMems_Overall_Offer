@@ -60,15 +60,15 @@ This publication channel will provide broader added value:
 </thead>
 <tbody>
 <tr>
-<td> <a href="https://github.com/STMicroelectronics/STMems_Standard_C_drivers">STMems_Standard_C_drivers</a></td>
+<th> <a href="https://github.com/STMicroelectronics/STMems_Standard_C_drivers">STMems_Standard_C_drivers</a></th>
 <td>Standard C platform-independent drivers for MEMS sensors </td>
 </tr>
 <tr>
-<td> <a href="https://github.com/STMicroelectronics/st-mems-rust-drivers">st-mems-rust-drivers</a></td>
+<th> <a href="https://github.com/STMicroelectronics/st-mems-rust-drivers">st-mems-rust-drivers</a></th>
 <td> Rust platform-independent drivers for MEMS sensors </td>
 </tr>
 <tr>
-<td> <a href="https://github.com/STMicroelectronics/st-mems-android-linux-sensors-hal">st-mems-android-linux-sensors-hal</a></td>
+<th> <a href="https://github.com/STMicroelectronics/st-mems-android-linux-sensors-hal">st-mems-android-linux-sensors-hal</a></th>
 <td> Android / Linux sensor HAL for MEMS motion and environmental sensors (Industrial I/O framework) </td>
 </tr>
 <tr>
