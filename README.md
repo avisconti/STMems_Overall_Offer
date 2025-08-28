@@ -22,7 +22,7 @@ This publication channel will provide broader added value:
 <table style="width:100%">
 <thead>
 <tr>
-<th> style="width:30%">Repository</th>
+<th style="width:30%">Repository</th>
 <th>Description</th>
 </tr>
 </thead>
