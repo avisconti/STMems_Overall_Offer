@@ -21,30 +21,25 @@ This publication channel will provide broader added value:
 
 <table border="1" width="100%">
 	<col style="width:40%">
-	<col style="width:30%">
-	<col style="width:30%">
+	<col style="width:60%">
 	<thead>
 	<tr>
 		<th>Fruits</th>
 		<th>Vitamin A</th>
-		<th>Vitamin C</th>
 	</tr>
 	</thead>
 	<tbody>
 	<tr>
 		<th> <a href="https://github.com/STMicroelectronics/STMems_Standard_C_drivers">STMems_Standard_C_drivers</a></th>
 		<td>98 ui</td>
-		<td>8.4 mg</td>
 	</tr>
 	<tr>
 		<th> <a href="https://github.com/STMicroelectronics/st-mems-android-linux-sensors-hal">st-mems-android-linux-sensors-hal</a></th>
 		<td>295 ui</td>
-		<td>69.7 mg</td>
 	</tr>
 	<tr>
 		<th>Bananas</th>
 		<td>76 ui</td>
-		<td>10.3 mg</td>
 	</tr>
 	</tbody>
 </table>
