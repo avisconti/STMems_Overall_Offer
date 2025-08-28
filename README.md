@@ -93,13 +93,11 @@ This publication channel will provide broader added value:
 </tbody>
 </table>
 
-.no-wrap-col-1 td:nth-of-type(1) {
-  white-space: nowrap;
-}
 ### STMicroelectronics MEMS sensors offer on GitHub:
 
 | Repository                                                   | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+{.no-wrap-col-1}
 | [STMems_Standard_C_drivers ](https://github.com/STMicroelectronics/STMems_Standard_C_drivers) | Standard C platform-independent drivers for MEMS sensors |
 | [st-mems-rust-drivers ](https://github.com/STMicroelectronics/st-mems-rust-drivers) | Rust platform-independent drivers for MEMS sensors |
 | [st-mems-android-linux-sensors-hal ](https://github.com/STMicroelectronics/st-mems-android-linux-sensors-hal) | Android / Linux sensor HAL for MEMS motion and environmental sensors (Industrial I/O framework) |
