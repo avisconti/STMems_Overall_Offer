@@ -39,7 +39,7 @@ This publication channel will provide broader added value:
 	</tr>
 	<tr>
 		<td> <a href="https://github.com/STMicroelectronics/st-mems-android-linux-sensors-hal">st-mems-android-linux-sensors-hal</a></td>
-		<td> Android / Linux sensor HAL for MEMS ntal sensors (Industrial I/O framework) </td>
+		<td> Android / Linux sensironmental sensors (Industrial I/O framework) </td>
 	</tr>
 	</tbody>
 </table>
