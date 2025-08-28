@@ -36,8 +36,8 @@ This publication channel will provide broader added value:
 <td> Rust platform-independent drivers for MEMS sensors </td>
 </tr>
 <tr>
-<td> <a href=""></a></td>
-<td> </td>
+<td> <a href="https://github.com/STMicroelectronics/st-mems-android-linux-sensors-hal">st-mems-android-linux-sensors-hal</a></td>
+<td> Android / Linux sensor HAL for MEMS motion and environmental sensors (Industrial I/O framework) </td>
 </tr>
 <tr>
 <td> <a href=""></a></td>
