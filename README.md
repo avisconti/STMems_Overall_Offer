@@ -28,7 +28,7 @@ This publication channel will provide broader added value:
 </thead>
 <tbody>
 <tr>
-<th style="width: 350px;">Column 1</th>
+<th style="width: 450px;">Column 1</th>
 </tr>
 <tr>
 <td> <a href="https://github.com/STMicroelectronics/STMems_Standard_C_drivers">STMems_Standard_C_drivers</a></td>
