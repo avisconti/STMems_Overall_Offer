@@ -50,8 +50,8 @@ This publication channel will provide broader added value:
 </table>
 
 <table style="width:100%">
-<col style="width:40%">
 <col style="width:60%">
+<col style="width:40%">
 <thead>
 <tr>
 <th>Repository</th>
