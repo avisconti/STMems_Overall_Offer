@@ -19,6 +19,53 @@ This publication channel will provide broader added value:
 - As a delivery option ([Git](https://git-scm.com/)) for customers to download and manage drivers and configuration examples for **STMicroelectronics MEMS sensors**.
 - Direct communication between developers, thanks to the Issues feedback option. **Caution** : *only software-related questions will be taken into account. Any other subject must be submitted to the [ST Community](https://community.st.com/) forum.*
 
+<table>
+<thead>
+<tr>
+<th>Repository</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> <a href="https://github.com/STMicroelectronics/STMems_Standard_C_drivers">STMems_Standard_C_drivers</a></td>
+<td>Standard C platform-independent drivers for MEMS sensors </td>
+</tr>
+<tr>
+<td> <a href="https://github.com/STMicroelectronics/st-mems-rust-drivers">st-mems-rust-drivers</a></td>
+<td> Rust platform-independent drivers for MEMS sensors </td>
+</tr>
+<tr>
+<td> <a href=""></a></td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href=""></a></td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href=""></a></td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href=""></a></td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href=""></a></td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href=""></a></td>
+<td> </td>
+</tr>
+<tr>
+<td> <a href=""></a></td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
 ### STMicroelectronics MEMS sensors offer on GitHub:
 
 | Repository                                                   | Description                                                  |
