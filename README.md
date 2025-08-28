@@ -20,9 +20,11 @@ This publication channel will provide broader added value:
 - Direct communication between developers, thanks to the Issues feedback option. **Caution** : *only software-related questions will be taken into account. Any other subject must be submitted to the [ST Community](https://community.st.com/) forum.*
 
 <table style="width:100%">
+<col style="width:40%">
+<col style="width:60%">
 <thead>
 <tr>
-<th style="width:70%">Repository</th>
+<th>Repository</th>
 <th>Description</th>
 </tr>
 </thead>
