@@ -20,9 +20,9 @@ This publication channel will provide broader added value:
 - Direct communication between developers, thanks to the Issues feedback option. **Caution** : *only software-related questions will be taken into account. Any other subject must be submitted to the [ST Community](https://community.st.com/) forum.*
 
 <table border="1" width="100%">
-	<col style="width:60%">
-	<col style="width:20%">
-	<col style="width:20%">
+	<col style="width:40%">
+	<col style="width:30%">
+	<col style="width:30%">
 	<thead>
 	<tr>
 		<th>Fruits</th>
